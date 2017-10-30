@@ -1,4 +1,5 @@
-```#include<iostream>
+```
+#include<iostream>
 using namespace std;
 struct listNode//利用结构构建链表
 {
